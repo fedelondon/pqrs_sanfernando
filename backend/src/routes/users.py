@@ -1,3 +1,4 @@
+from email.policy import default
 from fastapi import APIRouter
 
 user = APIRouter()
